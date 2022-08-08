@@ -1,0 +1,17 @@
+main: com.kazuha.zbv.main
+name: zbverify
+version: 1.0
+description: a simple zb verfiy plugin
+commands:
+  zb:
+    aliases:
+      - zbverify
+    permission: zb.verfiy
+permissions:
+  zb.verify:
+    default: true
+    description: noob
+  zb.all:
+    default: op
+    description: all
+

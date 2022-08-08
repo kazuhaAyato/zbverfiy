@@ -1,0 +1,13 @@
+mysql:
+  username: root
+  password: password
+  dbname: zbverfiy
+  ip: 127.0.0.1
+  port: 3306
+messages:
+  start-verify-kick: "§e请使用§c正版验证§e的方式登录§czb.mhxj.club§e以完成验证！"
+  verfiy-success: "§2✔ §a正版验证成功 感谢你对正版的支持"
+  not-exist: "§c请先在主服务器输入/zb start 开始验证！"
+  already-verified: "§c你已经验证过了"
+  verfiy-title: "§2验证成功,你现在可以返回主服务器了！"
+command_success: "lp user %player% parent add zbuser"

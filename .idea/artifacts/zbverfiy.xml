@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="zbverfiy">
+    <output-path>$PROJECT_DIR$/out/artifacts/zbverfiy</output-path>
+    <root id="archive" name="zbverfiy.jar">
+      <element id="module-output" name="zbverfiy" />
+    </root>
+  </artifact>
+</component>
